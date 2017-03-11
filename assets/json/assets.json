@@ -1,0 +1,25 @@
+{
+  "textures": {
+    "ship": {
+      "file": "textures/ships.png"
+    },
+    "space": {
+      "file": "textures/space.png"
+    },
+    "planet1": {
+      "file": "textures/planet1.png"
+    },
+    "planet2": {
+      "file": "textures/planet2.png"
+    },
+    "claw": {
+      "file": "textures/Claw.png"
+    }
+  },
+	"fonts": {
+		"felt32": {
+			"file":     "fonts/MarkerFelt.ttf",
+			"size":     32
+		}
+	}
+}
